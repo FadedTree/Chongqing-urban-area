@@ -1,0 +1,4 @@
+In the file list, the urban vegetation sample set 
+includes the original sample sets without augmentation.
+And the dataset includes the augmented sample sets,which 
+were trained by different networks.
